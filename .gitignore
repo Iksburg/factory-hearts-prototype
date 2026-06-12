@@ -1,0 +1,17 @@
+# Twine backups
+Backups/
+**/Backups/
+
+# Twine scratch files
+Scratch/
+scratch/
+**/Scratch/
+**/scratch/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary editor files
+*.swp
+*.tmp
